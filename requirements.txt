@@ -7,3 +7,4 @@ streamlit
 ipykernel
 seaborn
 statsmodels
+wordcloud
